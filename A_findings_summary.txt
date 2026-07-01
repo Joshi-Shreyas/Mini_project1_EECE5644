@@ -1,0 +1,35 @@
+Finding Summary
+
+Question-1:
+
+There is clean annual revenue amounted to £9.6 Million, increasing progressively each month throughout the year.
+Insight: It's party time in November! Getting ready for holidays results in an amazing 2.4 times sales increase from all other months.
+
+Question-2:
+
+Premium products such as the REGENCY CAKESTAND 3 TIER make up most of the revenue, and items like World War 2 Gliders sell by the millions as the best-selling products.
+Insight: The revenue top products list and the volume top products list don't coincide. While the company uses high volume, low margin impulse products to attract customers, its profitability comes from premium wholesale products.
+
+Question-3:
+
+Beyond the domestic UK market, our stronghold is in Western Europe, making £673,763 through 190 customers (mostly from the Netherlands, Germany, and France).
+Insight: There is an urgent need for us to build permanent infrastructure in Western Europe considering it's our most profitable region. At the same time, we need to assign dedicated account managers to Ireland because of its small but high-value clients who buy huge volumes wholesale and help earn £270,850.
+
+Question-4:
+We have one customer who contributed more than £279,000 to us. In total, merely 43 clients (1% of the population) account for 27.24% of corporate income.
+Insight: It is a pure wholesale business (B2B). Since over a quarter of our profit comes from a few select clients, we depend on maintaining positive relations with these important VIP clients.
+
+Question-5:
+
+The average global order size is currently set at £518.76 per invoice. Average domestic UK invoices are valued at £487.95, while international invoices that are not from the UK reach as high as £813.45.
+Insight: The international customers order significantly less frequently because of the global shipping barrier but tend to make larger bulk orders during each purchase to reduce transport costs.
+
+
+Question-6: 
+
+There were 10,624 cancelled/returned orders which accounted for a total loss of £896,812.49 worth of gross sales. The items most often returned were the largest volume bulk products (Paper Craft Little Birdie, Medium Ceramic Top Storage Jar).
+Insight: Though only 1.96% of the total transactions were returned, the amount of money is significant since the large bulk test-orders were cancelled completely.
+
+Question-7:
+We have filtered out 19,340 (3.57%) bad rows out of 541,909 raw rows in order to produce 522,569 cleaned rows – owing to cancellation, lack of description, bad price string, computer glitches, and shipping charges.
+Insight: This cleansed database framework is 100% trustworthy and ready for retail use for executive business reporting. But since there are 135,080 rows lacking customer IDs, our capability for accurate and long-term personal algorithms remains limited till guest checkouts are sorted out.
