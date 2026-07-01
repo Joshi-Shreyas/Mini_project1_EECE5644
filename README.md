@@ -22,7 +22,7 @@ pd.read_csv("data.csv", encoding="ISO-8859-1")
 ```text
 Mini_Project_Assignment_P1.ipynb
 data.csv
-cleaned_data.csv
+clean_online_retail.csv
 data_dictionary.md
 findings_summary.md
 cleaning_decisions_log.md
@@ -47,7 +47,7 @@ jupyter notebook Mini_Project_Assignment_P1.ipynb
 Run all cells from top to bottom. The notebook will generate:
 
 ```text
-cleaned_data.csv
+clean_online_retail.csv
 ```
 
 ## Cleaning Summary
@@ -61,7 +61,7 @@ The final cleaned dataset removes cancellations, returns, bad prices, invalid qu
 The cleaned dataset is saved as:
 
 ```text
-cleaned_data.csv
+clean_online_retail.csv
 ```
 
 The final business answers are summarized in:
